@@ -6,6 +6,6 @@
 </div>
 <div>
   <a href="https://nodejs.org/ja/">
-    <img alt="Nodejs" height="30%" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"/>
+    <img alt="Nodejs" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"/>
   </a>
 </div>
