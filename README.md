@@ -1,3 +1,2 @@
-  <img align="center" alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzuki3jp&theme=dark" />
-  <a href="https://github.com/ArikenCompany/ArikenCompany-dev">
-  <img alt="ArikenCompany" height="150px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArikenCompany&repo=ArikenCompany-dev" /></a>
+  <p display="flex"><img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzuki3jp&theme=dark" />
+  <a href="https://github.com/ArikenCompany/ArikenCompany-dev"><img alt="ArikenCompany" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=ArikenCompany&repo=ArikenCompany-dev" /></a></p>
