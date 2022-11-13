@@ -33,8 +33,8 @@
   <a style="margin-left:10px" href="https://tmijs.com/">
     <img alt="tmi.js" height="50px" src="https://avatars.githubusercontent.com/u/17866914?s=200&v=4"/>
   </a>
-  <a style="margin-left:10px" href="https://dev.twitch.tv/">
-    <img alt="TwitchDev" height="50px" src="https://avatars.githubusercontent.com/u/26467327?s=200&v=4"/>
+  <a style="margin-left:10px" href="https://expressjs.com/ja/">
+    <img alt="TwitchDev" height="50px" src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png"/>
   </a>
   </a>
 </div>
