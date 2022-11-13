@@ -1,4 +1,4 @@
-<img alt="Top Langs" height="100px" src="https://github-readme-stats.vercel.app/api?username=suzuki3jp&show_icons=true&hide=stars,prs,issues,contribs&theme=synthwave"/>
+<img alt="GitHub Status" height="100px" src="https://github-readme-stats.vercel.app/api?username=suzuki3jp&show_icons=true&hide=stars,prs,issues,contribs&include_all_commits=true&theme=synthwave"/>
   <div style="width:100%; display:flex;">
   <img alt="Top Langs" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzuki3jp&theme=dark&layout=compact"/>
   <a href="https://github.com/ArikenCompany/ArikenCompany-dev">
