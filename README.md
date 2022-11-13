@@ -1,9 +1,9 @@
-<div style="width:100%; display:flex;">
+<img alt="Top Langs" height="100px" src="https://github-readme-stats.vercel.app/api?username=suzuki3jp&show_icons=true&hide=stars,prs,issues,contribs&theme=synthwave"/>
+  <div style="width:100%; display:flex;">
   <img alt="Top Langs" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzuki3jp&theme=dark&layout=compact"/>
   <a href="https://github.com/ArikenCompany/ArikenCompany-dev">
     <img alt="ArikenCompany" height="100px" style="margin-left:10px" src="https://github-readme-stats.vercel.app/api/pin/?username=ArikenCompany&repo=ArikenCompany-dev&theme=dark"/>
   </a>
-  <img alt="Top Langs" height="100px" src="https://github-readme-stats.vercel.app/api?username=suzuki3jp&show_icons=true&hide=stars,prs,issues,contribs&theme=synthwave"/>
 </div>
 <div style="display:flex;">
   <a style="margin-left:10px" href="https://nodejs.org/ja/">
