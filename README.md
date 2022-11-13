@@ -29,6 +29,9 @@
   <a style="margin-left:10px" href="https://discord.js.org/#/">
     <img alt="css" height="50px" src="https://avatars.githubusercontent.com/u/26492485?s=200&v=4"/>
   </a>
+  <a style="margin-left:10px" href="https://tmijs.com/">
+    <img alt="tmi.js" height="50px" src="https://avatars.githubusercontent.com/u/17866914?s=200&v=4"/>
+  </a>
   <a style="margin-left:10px" href="https://dev.twitch.tv/">
     <img alt="TwitchDev" height="50px" src="https://avatars.githubusercontent.com/u/26467327?s=200&v=4"/>
   </a>
