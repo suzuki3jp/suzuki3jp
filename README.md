@@ -18,6 +18,9 @@
   <a style="margin-left:10px" href="https://developer.mozilla.org/ja/docs/Web/JavaScript">
     <img alt="JavaScript" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433"/>
   </a>
+  <a style="margin-left:10px" href="https://www.typescriptlang.org/">
+    <img alt="TypeScript" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+  </a>
   <a style="margin-left:10px" href="https://developer.mozilla.org/ja/docs/Web/HTML">
     <img alt="HTML" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png"/>
   </a>
